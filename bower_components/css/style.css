@@ -1,0 +1,12 @@
+.leido{
+    color: blue;
+    cursor: pointer;
+}
+
+#error{
+    color: red;
+}
+
+.oculto{
+    display: none !important;
+}
